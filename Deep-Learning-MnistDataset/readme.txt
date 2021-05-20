@@ -1,0 +1,1 @@
+In CM4, we have applied CNN and Resnet architecture on Mnist dataset and plot loss and accuracy over epochs in CM5. Also, we have checked performance of both models and compared results of both models in CM6.
