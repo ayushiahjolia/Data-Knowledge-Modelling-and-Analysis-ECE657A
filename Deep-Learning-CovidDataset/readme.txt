@@ -1,0 +1,1 @@
+In CM1, we applied DNN, LSTM and simple RNN on Covid dataset. In CM2, we explained critical code blocks and loss-accuracy plots with various combination of optimizers-alpha values.  And in CM3, we checked performance of algorithms.
